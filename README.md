@@ -10,7 +10,9 @@ iOS and Mac darwin based os installs via bluetooth..
 - # gaming
 - # lightweight battrey 
 - ## 'agent' classes for projects
-- # personlized ai
+- # adapative  ai suited to your needs 
+
+* MIT LICENSED SOTWARE COMPATIBLE WITH ALL KINDS OF LICENSES :) 
 - ## and more 
 
 
